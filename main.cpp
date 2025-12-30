@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <vector>
 
 const size_t ROWS = 3;
 const size_t COLS = 3;
